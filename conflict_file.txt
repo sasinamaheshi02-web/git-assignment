@@ -1,1 +1,1 @@
-echo "Original content" > conflict_file.txt
+Content from branch B (resolved)
